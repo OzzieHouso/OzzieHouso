@@ -8,8 +8,8 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=OzzieHous-o&color=red">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=OzzieHouso&color=red">
 </p>
 <p align="center">    
-    <a href="https://github.com/OzzieHous-o"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzzieHous-o&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/OzzieHouso"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzzieHouso&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
